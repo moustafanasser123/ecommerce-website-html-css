@@ -1,0 +1,51 @@
+.my-div-nav {
+  /* padding-right: 70px; */
+  border-bottom: 10px solid green;
+}
+
+.image-class {
+  justify-content: center;
+
+  padding-left: 4%;
+
+  display: flexbox;
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/20/13/44/paper-1468883_1280.jpg");
+}
+.first-image-class {
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.pixabay.com/photo/2015/06/22/08/37/children-817365_1280.jpg");
+}
+.second-image-class {
+  background-repeat: no-repeat;
+
+  background-image: url("https://cdn.pixabay.com/photo/2015/10/22/15/05/holiday-1001370_1280.jpg");
+}
+
+.third-image-class {
+  background-repeat: no-repeat;
+
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/01/11/48/woman-2564660_1280.jpg");
+}
+
+.forth-image-class {
+  background-repeat: no-repeat;
+
+  height: fit-content;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/29/01/34/man-1866574_1280.jpg");
+}
+
+.image-body {
+  background-color: antiquewhite;
+
+  border: 1px solid green;
+  opacity: 70%;
+}
+
+.mutual-class {
+    color: orange;
+    font-size: 40px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 600px;
+}
